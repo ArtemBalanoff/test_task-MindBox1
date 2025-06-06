@@ -10,7 +10,7 @@
 - Покрытие тестами (pytest)
 
 ## Установка
-
+- Требуется Python версии 3.10 или выше (используются `X | Y` type union'ы)
 - `git clone git@github.com:ArtemBalanoff/test_task-MindBox1.git`
 - `cd test_task-MindBox1`
 - `python3 -m venv venv`
