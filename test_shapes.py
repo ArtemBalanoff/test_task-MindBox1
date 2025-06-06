@@ -3,7 +3,7 @@ from shapes import Circle, Triangle, Square, Rectangle
 from math import pi
 import pytest
 
-TEST_PRECISION = 2
+from constants import TEST_PRECISION
 
 
 @pytest.mark.parametrize('constructor, args', [

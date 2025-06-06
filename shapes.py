@@ -1,8 +1,7 @@
 from abc import ABC, abstractmethod
 from math import pi, sqrt
 
-
-DEFAULT_PRECISION = 3
+from constants import DEFAULT_PRECISION
 
 
 class Shape(ABC):

@@ -8,3 +8,15 @@
 - Общий абстрактный интерфейс `Shape`
 - Поддержка настройки точности округления
 - Покрытие тестами (pytest)
+
+## Установка
+
+- `git clone git@github.com:ArtemBalanoff/test_task-MindBox1.git`
+- `cd test_task-MindBox1`
+- `python3 -m venv venv`
+- `source venv/bin/activate`
+- `pip install -r reqs.txt`
+
+## Запуск тестов
+
+- `python3 -m pytest -v`
